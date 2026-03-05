@@ -1,7 +1,3 @@
-# 💫 About Me:
-Hello, I'm Pavel. I'm Data Engineer with 3years of commercial experience in cloud data engineering.<br>Also i'm solving problems on leetcode and codeforces. 
-
-
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pavel-y-6ba966190/) 
 [![Leetcode](https://img.shields.io/badge/LeetCode-000000?logo=LeetCode&logoColor=#d16c06)](https://leetcode.com/u/kurwochka/)
